@@ -23,7 +23,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             {
                 bodegaBD.Name = bodega.Name;
                 bodegaBD.Description = bodega.Description;
-                bodegaBD.State = bodega.State;
+                bodegaBD.Status = bodega.Status;
                 _db.SaveChanges();
             }
         }
