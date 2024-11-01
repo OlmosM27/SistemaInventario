@@ -18,6 +18,6 @@ namespace SistemaInventario.Modelos
         [MaxLength(100, ErrorMessage = "La descripcion debe tener un máximo de 100 caracteres")]
         public string Description { get; set; }
         [Required(ErrorMessage = "El estado es requerido")]
-        public bool State { get; set; }
+        public bool Status { get; set; }
     }
 }
