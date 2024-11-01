@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+.vs/SistemaInventario/v17/.suo
+SistemaInventario/obj/Debug/net8.0/SistemaInventario.AssemblyInfo.cs
+SistemaInventario/obj/Debug/net8.0/SistemaInventario.AssemblyInfoInputs.cache
+SistemaInventario/obj/Debug/net8.0/SistemaInventario.csproj.AssemblyReference.cache
