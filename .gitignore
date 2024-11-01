@@ -486,3 +486,5 @@ $RECYCLE.BIN/
 SistemaInventario/obj/Debug/net8.0/SistemaInventario.AssemblyInfo.cs
 SistemaInventario/obj/Debug/net8.0/SistemaInventario.AssemblyInfoInputs.cache
 SistemaInventario/obj/Debug/net8.0/SistemaInventario.csproj.AssemblyReference.cache
+/SistemaInventario/obj
+/.vs/SistemaInventario/v17
